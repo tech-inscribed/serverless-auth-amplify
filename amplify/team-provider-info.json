@@ -1,0 +1,29 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-serverless-auth-dev-82850-authRole",
+            "UnauthRoleArn": "arn:aws:iam::119384653119:role/amplify-serverless-auth-dev-82850-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::119384653119:role/amplify-serverless-auth-dev-82850-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-serverless-auth-dev-82850-deployment",
+            "UnauthRoleName": "amplify-serverless-auth-dev-82850-unauthRole",
+            "StackName": "amplify-serverless-auth-dev-82850",
+            "StackId": "arn:aws:cloudformation:us-east-1:119384653119:stack/amplify-serverless-auth-dev-82850/502b3f90-2f67-11ea-b272-0e4a688d3275",
+            "AmplifyAppId": "d2c6xw69hjbrrp"
+        },
+        "categories": {
+            "function": {
+                "serverlessauthb93fbd10CustomMessage": {
+                    "REDIRECTURL": "https://localhost:3000/",
+                    "EMAILSUBJECT": "Verify your account",
+                    "EMAILMESSAGE": "Click the link to verify your account"
+                }
+            },
+            "auth": {
+                "serverlessauthb93fbd10": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2377736872283552\",\"client_secret\":\"dfdcbc53fc36d8735a28bca4d04b4d76\"},{\"ProviderName\":\"Google\",\"client_id\":\"813004830141-2leap7abkjf00bsofqcdn6a6po8l9348.apps.googleusercontent.com\",\"client_secret\":\"A8ItEQFJpwu05wwsjoyytJSn\"}]"
+                }
+            }
+        }
+    }
+}

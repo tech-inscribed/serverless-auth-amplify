@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "verification-link"
+    ],
+    "parentResource": "serverlessauthb93fbd10",
+    "functionName": "serverlessauthb93fbd10CustomMessage",
+    "parentStack": "auth",
+    "triggerEnvs": "[{\"key\":\"RESOURCENAME\",\"value\":\"resourceName\"}]",
+    "triggerTemplate": "CustomMessage.json.ejs",
+    "roleName": "serverlessauthb93fbd10CustomMessage",
+    "skipEdit": true,
+    "resourceName": "serverlessauthb93fbd10CustomMessage"
+}
